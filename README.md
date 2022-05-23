@@ -7,6 +7,8 @@ Full Stack Developer in progress 🌠
 </h2>
 
 [![Visits Badge](https://badges.pufler.dev/visits/speedbuild98/speedbuild98?labelColor=082032)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/speedbuild98/speedbuild98)](https://badges.pufler.dev)
 
 :floppy_disk: [My Portfolio](https://devgallardo.netlify.app/)
 
