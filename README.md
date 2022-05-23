@@ -4,9 +4,11 @@
 
 ## I'm a __Full stack web developer__ student & web3.0. enthusiast
 
-:floppy_disk:[My Portfolio](https://devgallardo.netlify.app/)
+<img height="40em" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/about.png"/>
 
-:page_with_curl:[My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
+:floppy_disk: [My portfolio](https://devgallardo.netlify.app/)
+
+:page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
 ## <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="react" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/></a><a href="https://devgallardo.netlify.app/" target="_blank" rel="noreferrer"><img src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" alt="photshop" width="95" height="40"/></a>
@@ -36,7 +38,7 @@
 ### :ghost: Hobbies:
   - Playing Basketball.
   - Watch anime.
-  - Do Frontends challenges. 
+  - Do Frontend challenges. 
   - Gym.
 
 ### :gear: Git Analytics
