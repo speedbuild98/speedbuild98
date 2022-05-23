@@ -72,7 +72,7 @@ Full Stack Developer in progress 🌠
 ### :ghost: Hobbies:
   - Playing Basketball.
   - Watch anime.
-  - Do Frontends challenges. 
+  - Make Frontend challenges. 
   - Gym.
 
 Thank you for your time!
