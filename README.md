@@ -1,8 +1,5 @@
-<h1 align="center">
-Hi there, I'm Leonel 👋
-</h1>
 <p align="center">
-<img height="180em" src="https://seeklogo.com/images/C/coding-logo-553EFA7061-seeklogo.com.png"/>
+<img height="300px" src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
 <h2 align="center">
 Full Stack Developer in progress 🌠
