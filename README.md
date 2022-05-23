@@ -2,8 +2,11 @@
 <img height="300px" src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
 <h2 align="center">
+
 Full Stack Developer in progress 🌠
 </h2>
+
+[![Visits Badge](https://badges.pufler.dev/visits/speedbuild98/speedbuild98?labelColor=082032)](https://badges.pufler.dev)
 
 :floppy_disk: [My Portfolio](https://devgallardo.netlify.app/)
 
@@ -21,32 +24,40 @@ Full Stack Developer in progress 🌠
 ### <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="html"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="react" width="40" height="40"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/></a><a href="https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE:G:s&s_kwcid=AL!3085!3!474070190118!b!!g!!%2Bphotoshop!11413139907!113176393673&gclid=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE" target="_blank" rel="noreferrer"><img src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" alt="photshop" width="95" height="40"/></a>
 <a href="https://www.adobe.com/la/products/illustrator.html?sdid=KQPQJ&mv=search&ef_id=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE:G:s&s_kwcid=AL!3085!3!442303210470!e!!g!!illustrator!630551026!10721864982&gclid=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" alt="illustrator" width="40" height="40"/></a></p>
-
+ 
+ 
+ 
 ## :pushpin: My last proyects
 
-<p>
+<p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio15.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio12.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio14.jpg"></a>
 </p>
-<p>
+<p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio1.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio8.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio18.jpg"></a>
 </p>
-<p>
+<p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio20.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio19.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio17.jpg"></a>
 </p>
 
-### :gear: Git Analytics
-<p align="center">
-  <a href="https://github.com/speedbuild98">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=speedbuild98&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=speedbuild98&layout=compact&langs_count=8&theme=gruvbox"/>
-  </a>
-</p>
+
+
+
+## :bar_chart: GitHub Stats
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedbuild98&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
+
+![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedbuild98&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
+
+
+
 
 ### 📚 Certifications:
   - [FreeCodeCamp.org](https://www.freecodecamp.org/)
@@ -69,6 +80,9 @@ Full Stack Developer in progress 🌠
     - [Scrum](https://www.linkedin.com/learning/certificates/0841f50a68acd0e3d4c8396387a9f0d04bc7ab6e75760623f872d98b47a1b40a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B98MRwXZyT1STBD401Y7Z9Q%3D%3D)
     - [CSS](https://www.linkedin.com/learning/certificates/c7486366c2ee4fc645ee0745d05c44feefbc5b77f0325af4fec579a8dea6173d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B98MRwXZyT1STBD401Y7Z9Q%3D%3D)      
     
+    
+    
+    
 ### :ghost: Hobbies:
   - Playing Basketball.
   - Watch anime.
@@ -76,5 +90,16 @@ Full Stack Developer in progress 🌠
   - Gym.
 
 Thank you for your time!
+
+<br> 
+
+## :snake:
+
+![snake](https://github.com/anmarinur/anmarinur/blob/output/github-contribution-grid-snake.svg)
+
+<br>
+
+
+    
 
 
