@@ -9,7 +9,7 @@
 :page_with_curl:[My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
 ### 📚 Certifications:
-  - [FreeCodeCamp.org](www.freecodecamp.org)
+  - [FreeCodeCamp.org](https://www.freecodecamp.org/)
     - [Responsive web design](https://www.freecodecamp.org/certification/Speedbuild98/responsive-web-design)
     - [Javascript algorithms and data structures](https://www.freecodecamp.org/certification/Speedbuild98/javascript-algorithms-and-data-structures)
 
