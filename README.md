@@ -1,7 +1,9 @@
-# Hi there, I'm Leonel 👋
-
+<h1 align="center">
+Hi there, I'm Leonel 👋
+</h1>
+<p align="center">
 <img height="180em" src="https://seeklogo.com/images/C/coding-logo-553EFA7061-seeklogo.com.png"/>
-
+</p>
 <h2 align="center">
 Full Stack Developer in progress 🌠
 </h2>
