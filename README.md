@@ -12,7 +12,7 @@ Full Stack Developer in progress 🌠
 
 :page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
-- 📫 Get in touch **lautaropectm98@gmail.com**
+📫 Get in touch **lautaropectm98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
