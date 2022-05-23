@@ -52,6 +52,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lautagallardogg/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lautaro" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5492664017317&text&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="lautaro" height="30" width="40" /></a>
+ <a href="https://devgallardo.netlify.app/" target="blank"><img align="center" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png](https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/perfil.png)" alt="lautaro" height="30" width="40" /></a>
 </p>
 
 
