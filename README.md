@@ -1,5 +1,5 @@
-<img align='left' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'>
+<img align='left' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='30%'>  
+<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/200w.gif?raw=true' width='30%'>
 <p align="center">
 <img height="300px" src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
