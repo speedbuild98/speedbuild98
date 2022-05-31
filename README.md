@@ -1,5 +1,3 @@
-<img align='left' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
-
 <p align="center">
 <img width='60%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
@@ -18,6 +16,8 @@ Full Stack Developer in progress 🌠
 :page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
 📫 Get in touch **lautaropectm98@gmail.com**
+
+<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
