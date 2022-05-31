@@ -1,5 +1,5 @@
 <img align='left' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
-<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/200w.gif?raw=true' width='20%'>
+<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 <p align="center">
 <img width='60%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
