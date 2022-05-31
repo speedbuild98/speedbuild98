@@ -11,11 +11,13 @@ Full Stack Developer in progress 🌠
 [![Visits Badge](https://badges.pufler.dev/visits/speedbuild98/speedbuild98?labelColor=082032)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
 
+### Get in touch: 
+
 :floppy_disk: [My Portfolio](https://devgallardo.netlify.app/)
 
 :page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
-📫 Get in touch **lautaropectm98@gmail.com**
+📫**lautaropectm98@gmail.com**
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
 
