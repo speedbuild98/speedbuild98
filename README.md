@@ -1,12 +1,14 @@
 <img align='left' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
-<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
+
 <p align="center">
 <img width='60%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
-<h2 align="center">
+<h2 align="left">
 
 Full Stack Developer in progress 🌠
 </h2>
+
+<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
 [![Visits Badge](https://badges.pufler.dev/visits/speedbuild98/speedbuild98?labelColor=082032)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
