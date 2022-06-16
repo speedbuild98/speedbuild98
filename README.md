@@ -83,6 +83,9 @@ Full Stack Developer in progress 🌠
   - [HackerRank](https://www.hackerrank.com/)
     - [CSS](https://www.hackerrank.com/certificates/cd66948c6577)
 
+  - [OpenBootCamp](https://open-bootcamp.com/)
+    - [HTML and CSS - Basics](https://storage.googleapis.com/openvitae-prod/diplomas%2Fd248d01a-d148-4371-b9d3-8a75051d8bde.pdf)
+
   - [Linkedin](https://www.linkedin.com/learning/)
     - [Scrum](https://www.linkedin.com/learning/certificates/0841f50a68acd0e3d4c8396387a9f0d04bc7ab6e75760623f872d98b47a1b40a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B98MRwXZyT1STBD401Y7Z9Q%3D%3D)
     - [CSS](https://www.linkedin.com/learning/certificates/c7486366c2ee4fc645ee0745d05c44feefbc5b77f0325af4fec579a8dea6173d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B98MRwXZyT1STBD401Y7Z9Q%3D%3D)      
