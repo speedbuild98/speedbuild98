@@ -8,7 +8,7 @@ Full Stack Developer in progress 🌠
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
-[![Visits Badge](https://badges.pufler.dev/visits/speedbuild98/speedbuild98?labelColor=082032)](https://badges.pufler.dev)
+
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
 
 ### Get in touch: 
