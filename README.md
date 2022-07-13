@@ -3,7 +3,7 @@
 </p>
 <h2 align="left">
 
-Full Stack Developer in progress 🌠
+Front-End Developer 🌠
 </h2>
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
