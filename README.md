@@ -1,3 +1,4 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
 <p align="center">
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
@@ -9,7 +10,6 @@ Web Developer 🌠
 
 
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
-
 
 ### Get in touch: 
 
