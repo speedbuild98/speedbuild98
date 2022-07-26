@@ -1,15 +1,15 @@
 <p align="center">
-<img width='60%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
+<img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
-<h2 align="center">
-
+<h1 align="center">
 Web Developer 🌠
-</h2>
+</h1>
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
 
 [![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
+
 
 ### Get in touch: 
 
@@ -21,25 +21,26 @@ Web Developer 🌠
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/lautagallardogg/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lautaro" height="15" width="30" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5492664017317&text&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="15" width="30" /></a>
- <a href="https://www.tiktok.com/@meepog" target="blank"><img align="center" src="https://www.buscopng.com/wp-content/uploads/2020/10/Tik-Tok-solo-logo.png" alt="TikTok" height="15" width="30" /></a>
+<a href="https://www.linkedin.com/in/lautagallardogg/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lautaro" height="15" width="25" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5492664017317&text&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="15" width="25" /></a>
+ <a href="https://www.tiktok.com/@meepog" target="blank"><img align="center" src="https://www.buscopng.com/wp-content/uploads/2020/10/Tik-Tok-solo-logo.png" alt="TikTok" height="15" width="25" /></a>
 </p>
+<br/>
 
-### <h3 align="center">Front-End:</h3>
+### <h2 align="center">Front-End:</h3>
 
-<p align="center"><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="html"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/html.png" alt="html" width="140" height="40"/></a><a href="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/css.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="140" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/js.png" alt="javascript" width="140" height="40"/></a><a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/react.png" alt="react" width="140" height="40"/></a>
+<p align="center"><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="html"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/html.png" alt="html" width="140" height="40"/></a><a href="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/css.png" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/css.png" alt="css3" width="140" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/js.png" alt="javascript" width="140" height="40"/></a><a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/react.png" alt="react" width="140" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/tailwind.png" alt="tailwind" width="140" height="40"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/bootstrap.png" alt="react" width="140" height="40"/></a>
 <a href="https://sass.com" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/sass.png" alt="react" width="140" height="40"/></a>
 
 
-### <h3 align="center">Back-End:</h3>
+### <h2 align="center">Back-End:</h3>
 
 <p align="center"><a href="https://www.java.com/es/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/java.png?raw=true" alt="Java" width="140" height="40"/></a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/spring.png" alt="Spring" width="140" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/mysql.png?raw=true" alt="MySQL" width="140" height="40"/></a></p>
 
-### <h3 align="center">Tools:</h3>
+### <h2 align="center">Tools:</h3>
 <p align="center"><a href="https://www.adobe.com/la/products/illustrator.html?sdid=KQPQJ&mv=search&ef_id=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE:G:s&s_kwcid=AL!3085!3!442303210470!e!!g!!illustrator!630551026!10721864982&gclid=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/illustrator.png" alt="illustrator" width="140" height="40"/></a><a href="https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE:G:s&s_kwcid=AL!3085!3!474070190118!b!!g!!%2Bphotoshop!11413139907!113176393673&gclid=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/photoshop.png" alt="photshop" width="140" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="140" height="40"/></a>
 </p>
  
@@ -47,6 +48,11 @@ Web Developer 🌠
  
 ## :pushpin: My last proyects
 
+<p align="center">
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio26.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio25.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio24.jpg"></a>
+</p>
 <p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio15.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio12.jpg"></a>
