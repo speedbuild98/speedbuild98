@@ -8,25 +8,23 @@ Web Developer 🌠
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
-
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
-
 ### Get in touch: 
 
 :floppy_disk: [My Portfolio](https://devgallardo.netlify.app/)
 
 :page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
-📫 **lautaropectm98@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/lautagallardogg/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+<a href="https://mailto:lautaropectm98@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;  
 <a href="https://wa.me/5492664017317">
      <img src="https://img.shields.io/badge/whatsapp-30077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;   
 </p>
 <br/>
 
@@ -47,9 +45,9 @@ Web Developer 🌠
 <p align="center"><a href="https://www.adobe.com/la/products/illustrator.html?sdid=KQPQJ&mv=search&ef_id=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE:G:s&s_kwcid=AL!3085!3!442303210470!e!!g!!illustrator!630551026!10721864982&gclid=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/illustrator.png" alt="illustrator" width="140" height="40"/></a><a href="https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE:G:s&s_kwcid=AL!3085!3!474070190118!b!!g!!%2Bphotoshop!11413139907!113176393673&gclid=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/photoshop.png" alt="photshop" width="140" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="140" height="40"/></a>
 </p>
  
- 
- 
-## :pushpin: My last proyects
+## :pushpin: My last proyects 
+
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
 
 <p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio26.jpg"></a>
@@ -59,22 +57,37 @@ Web Developer 🌠
 <p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio23.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio22.jpg"></a>
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio16.jpg"></a>
-</p>
-<p align="center">
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio15.jpg"></a>
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio12.jpg"></a>
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio14.jpg"></a>
-</p>
-<p align="center">
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio1.jpg"></a>
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio8.jpg"></a>
-  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio18.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio21.jpg"></a>
 </p>
 <p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio20.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio19.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio18.jpg"></a>
+</p>
+<p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio17.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio16.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio15.jpg"></a>
+</p>
+<p align="center">
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio14.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio13.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio12.jpg"></a>
+</p>
+<p align="center">
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio11.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio10.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio1.jpg"></a>
+</p>
+<p align="center">
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio6.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio5.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio4.jpg"></a>
+</p>
+<p align="center">
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio3.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio2.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio9.jpg"></a>
 </p>
 
 
