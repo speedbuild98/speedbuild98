@@ -19,7 +19,7 @@ Web Developer 🌠
 <a href="https://www.linkedin.com/in/lautagallardogg/">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-<a href="https://mailto:lautaropectm98@gmail.com">
+<a href="mailto:lautaropectm98@gmail.com?subject=¡Hola!">
      <img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;  
 <a href="https://wa.me/5492664017317">
