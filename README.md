@@ -21,9 +21,12 @@ Web Developer 🌠
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/lautagallardogg/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lautaro" height="15" width="25" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5492664017317&text&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="15" width="25" /></a>
- <a href="https://www.tiktok.com/@meepog" target="blank"><img align="center" src="https://www.buscopng.com/wp-content/uploads/2020/10/Tik-Tok-solo-logo.png" alt="TikTok" height="15" width="25" /></a>
+<a href="https://www.linkedin.com/in/lautagallardogg/">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+<a href="https://wa.me/5492664017317">
+     <img src="https://img.shields.io/badge/whatsapp-30077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
 </p>
 <br/>
 
@@ -52,6 +55,11 @@ Web Developer 🌠
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio26.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio25.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio24.jpg"></a>
+</p>
+<p align="center">
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio23.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio22.jpg"></a>
+  <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio16.jpg"></a>
 </p>
 <p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio15.jpg"></a>
