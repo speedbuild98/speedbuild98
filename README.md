@@ -1,9 +1,9 @@
 <p align="center">
 <img width='60%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
-<h2 align="left">
+<h2 align="center">
 
-Front-End Developer 🌠
+Web Developer 🌠
 </h2>
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
@@ -19,25 +19,29 @@ Front-End Developer 🌠
 
 📫 **lautaropectm98@gmail.com**
 
-<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lautagallardogg/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lautaro" height="30" width="35" /></a>
-<a href="https://api.whatsapp.com/send/?phone=5492664017317&text&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="30" width="35" /></a>
- <a href="https://www.tiktok.com/@meepog" target="blank"><img align="center" src="https://www.buscopng.com/wp-content/uploads/2020/10/Tik-Tok-solo-logo.png" alt="TikTok" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/lautagallardogg/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="lautaro" height="15" width="30" /></a>
+<a href="https://api.whatsapp.com/send/?phone=5492664017317&text&app_absent=0" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" alt="WhatsApp" height="15" width="30" /></a>
+ <a href="https://www.tiktok.com/@meepog" target="blank"><img align="center" src="https://www.buscopng.com/wp-content/uploads/2020/10/Tik-Tok-solo-logo.png" alt="TikTok" height="15" width="30" /></a>
 </p>
 
-### <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="figma" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>      
-<a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/></a>      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind" width="40" height="40"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="react" width="40" height="40"/></a>
+### <h3 align="center">Front-End:</h3>
 
-<a href="https://www.java.com/es/" target="_blank" rel="noreferrer"><img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="Spring" width="40" height="40"/></a>
-<a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"><img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="Node.js" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="MySQL" width="40" height="40"/></a>
+<p align="center"><a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="html"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/html.png" alt="html" width="140" height="40"/></a><a href="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/css.png" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="140" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/js.png" alt="javascript" width="140" height="40"/></a><a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/react.png" alt="react" width="140" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/tailwind.png" alt="tailwind" width="140" height="40"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/bootstrap.png" alt="react" width="140" height="40"/></a>
+<a href="https://sass.com" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/sass.png" alt="react" width="140" height="40"/></a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="40" height="40"/></a><a href="https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE:G:s&s_kwcid=AL!3085!3!474070190118!b!!g!!%2Bphotoshop!11413139907!113176393673&gclid=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE" target="_blank" rel="noreferrer"><img src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" alt="photshop" width="95" height="40"/></a><a href="https://www.adobe.com/la/products/illustrator.html?sdid=KQPQJ&mv=search&ef_id=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE:G:s&s_kwcid=AL!3085!3!442303210470!e!!g!!illustrator!630551026!10721864982&gclid=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Illustrator_CC_icon.png/492px-Illustrator_CC_icon.png" alt="illustrator" width="40" height="40"/></a></p>
+
+### <h3 align="center">Back-End:</h3>
+
+<p align="center"><a href="https://www.java.com/es/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/java.png?raw=true" alt="Java" width="140" height="40"/></a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/spring.png" alt="Spring" width="140" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/mysql.png?raw=true" alt="MySQL" width="140" height="40"/></a></p>
+
+### <h3 align="center">Tools:</h3>
+<p align="center"><a href="https://www.adobe.com/la/products/illustrator.html?sdid=KQPQJ&mv=search&ef_id=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE:G:s&s_kwcid=AL!3085!3!442303210470!e!!g!!illustrator!630551026!10721864982&gclid=EAIaIQobChMIyMiA5u719wIVJW1vBB0j3gEHEAAYASAAEgJIIPD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/illustrator.png" alt="illustrator" width="140" height="40"/></a><a href="https://www.adobe.com/la/products/photoshop.html?sdid=KQPQZ&mv=search&ef_id=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE:G:s&s_kwcid=AL!3085!3!474070190118!b!!g!!%2Bphotoshop!11413139907!113176393673&gclid=EAIaIQobChMIhoOY1e719wIVqGxvBB2iSQujEAAYASAAEgKBavD_BwE" target="_blank" rel="noreferrer"><img src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/icons/photoshop.png" alt="photshop" width="140" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="140" height="40"/></a>
+</p>
  
  
  
