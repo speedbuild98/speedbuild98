@@ -94,20 +94,12 @@ Front-End Developer 🌠
     
     
 ### :ghost: Hobbies:
-  - Playing Basketball.
+  - Play Basketball.
   - Watch anime.
   - Make Frontend challenges. 
   - Gym.
 
 Thank you for your time!
-
-<br> 
-
-## :snake:
-
-![snake](https://github.com/anmarinur/anmarinur/blob/output/github-contribution-grid-snake.svg)
-
-<br>
 
 
     
