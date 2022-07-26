@@ -17,7 +17,7 @@ Front-End Developer 🌠
 
 :page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
 
-📫**lautaropectm98@gmail.com**
+📫 **lautaropectm98@gmail.com**
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/XcFC.gif?raw=true' width='20%'>  
 
