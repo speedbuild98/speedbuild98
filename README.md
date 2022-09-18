@@ -3,7 +3,7 @@
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
 <h1 align="center">
-Web Developer 🌠
+Software Developer 🌠
 </h1>
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
