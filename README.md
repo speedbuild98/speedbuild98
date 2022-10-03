@@ -47,8 +47,6 @@ Software Developer 🌠
  
 ## :pushpin: My last proyects 
 
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/speedbuild98)](https://badges.pufler.dev)
-
 <p align="center">
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio26.jpg"></a>
   <a><img width="30%" height="30%" src="https://github.com/speedbuild98/speedbuild98.github.io/blob/main/assets/img/portfolio25.jpg"></a>
