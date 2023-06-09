@@ -7,7 +7,7 @@ Software Developer 🌠
 </h1>
 
 <p align="center">
-I am Lautaro, a Web Developer with experience in building custom websites. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. Currently, I am actively seeking a position in the IT field to contribute my knowledge, skills, and innovative ideas. I am eager to gain new experiences and continue my professional development journey.
+I am Lautaro, a Web Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
 </p>
 
 <br/>
