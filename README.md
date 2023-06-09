@@ -5,10 +5,13 @@
 <h1 align="center">
 Software Developer 🌠
 </h1>
-I am Lautaro, a Web Developer with experience in building custom websites. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. Currently, I am actively seeking a position in the IT field to contribute my knowledge, skills, and innovative ideas. I am eager to gain new experiences and continue my professional development journey.
-<p>
 
+<p align="center">
+I am Lautaro, a Web Developer with experience in building custom websites. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. Currently, I am actively seeking a position in the IT field to contribute my knowledge, skills, and innovative ideas. I am eager to gain new experiences and continue my professional development journey.
 </p>
+
+<br/>
+<br/>
 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
