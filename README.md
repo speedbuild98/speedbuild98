@@ -35,6 +35,8 @@ I am Lautaro Leonel Gallardo, a Web Developer with experience in building custom
 </p>
 <br/>
 
+<div align="center">
+
 ## :bar_chart: GitHub Stats
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedbuild98&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&count_private=true)
@@ -42,3 +44,6 @@ I am Lautaro Leonel Gallardo, a Web Developer with experience in building custom
 ![Anmarinur's GitHub stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&bg_color=082032&hide_border=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=ff006c&show_icons=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedbuild98&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
