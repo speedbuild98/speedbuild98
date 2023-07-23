@@ -2,12 +2,19 @@
 <p align="center">
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
-<h1 align="center">
-Software Developer 🌠
-</h1>
+
 
 <p align="center">
-I am Lautaro Leonel Gallardo, a Software Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
+<img width='10%' src="https://gallardolautaro.tech/assets/logo-848c3b20.svg"/>
+</p>
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=f9cc0b&center=true&vCenter=true&width=435&lines=%3CFrontend Developer%2F%3E" alt="Typing SVG" />
+    </a>
+</div>
+
+<p align="center">
+I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
 </p>
 
 <br/>
@@ -43,5 +50,7 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedbuild98&background=082032&dates=ffffff&ring=F7DF1E&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=ff006c&hide_border=true)](https://git.io/streak-stats)
 
-</div>
+![Lautaro's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
+
+
 
