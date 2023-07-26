@@ -23,7 +23,7 @@ I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building c
 
 <div align="center">
     
-# Todoist Stats
+#  :scroll: Todoist Stats
 <!-- TODO-IST:START -->
 🏆  11,857 Karma Points           
 🌸  Completed 15 tasks today           
@@ -34,9 +34,7 @@ I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building c
 
 </div>
 
-<br/>
-<br/>
-
+# 
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
 ### Get in touch: 
