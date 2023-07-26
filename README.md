@@ -1,3 +1,7 @@
+# Todoist Stats
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 ![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
 <p align="center">
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
@@ -53,9 +57,4 @@ I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building c
 ![Lautaro's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
 
 <img src="https://github-profile-trophy.vercel.app/?username=speedbuild98&theme=juicyfresh&no-bg=true" />
-
-# Todoist Stats
-
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
