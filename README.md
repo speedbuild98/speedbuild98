@@ -1,12 +1,6 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
 
-<div align="center">
-    
-# Todoist Stats
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
 
-</div>
 
 
 <p align="center">
@@ -26,6 +20,14 @@
 <p align="center">
 I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
 </p>
+
+<div align="center">
+    
+# Todoist Stats
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
+</div>
 
 <br/>
 <br/>
