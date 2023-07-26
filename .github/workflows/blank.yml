@@ -12,6 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: speedbuild98/speedbuild98@master
+      - uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
