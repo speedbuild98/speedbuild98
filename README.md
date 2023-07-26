@@ -67,5 +67,7 @@ I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building c
 
 ![Lautaro's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedbuild98&layout=compact)
+
 <img src="https://github-profile-trophy.vercel.app/?username=speedbuild98&theme=juicyfresh&no-bg=true" />
 
