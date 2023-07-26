@@ -1,13 +1,14 @@
+![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
+
+<div align="center">
+    
 # Todoist Stats
 <!-- TODO-IST:START -->
-🏆  11,857 Karma Points           
-🌸  Completed 15 tasks today           
-🗓  Completed 39 tasks this week           
-✅  Completed 1,659 tasks so far           
-⏳  Longest streak is 25 days
 <!-- TODO-IST:END -->
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
+</div>
+
+
 <p align="center">
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
