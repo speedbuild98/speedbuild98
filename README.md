@@ -26,7 +26,7 @@ I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building c
 #  :scroll: Todoist Stats
 <!-- TODO-IST:START -->
 🏆  12,581 Karma Points           
-🌸  Completed 25 tasks today           
+🌸  Completed 0 tasks today           
 🗓  Completed 50 tasks this week           
 ✅  Completed 1,966 tasks so far           
 ⏳  Longest streak is 25 days
