@@ -41,7 +41,7 @@ I am Lautaro Leonel Gallardo, a Frontend Developer with experience in building c
 
 :floppy_disk: [My Portfolio](https://gallardolautaro.tech)
 
-:page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98.github.io/raw/main/assets/pdf/material-resume-eng.pdf)
+:page_with_curl: [My resume](https://github.com/speedbuild98/speedbuild98/blob/main/Resume%20-%20Gallardo%20Lautaro.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
