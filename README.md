@@ -13,12 +13,12 @@
 </p>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=f9cc0b&center=true&vCenter=true&width=435&lines=%3CWeb Developer%2F%3E" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=f9cc0b&center=true&vCenter=true&width=435&lines=%3CSoftware Developer%2F%3E" alt="Typing SVG" />
     </a>
 </div>
 
 <p align="center">
-I am Lautaro Leonel Gallardo, a Web Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
+I am Lautaro Leonel Gallardo, a Software Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
 </p>
 
 <div align="center">
