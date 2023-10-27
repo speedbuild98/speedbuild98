@@ -51,7 +51,7 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 <a href="mailto:dev.gallardolautaro@gmail.com?subject=Hi there!">
      <img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;  
-<a href="https://wa.me/5492664017317">
+<a href="https://wa.me/5493516236680">
      <img src="https://img.shields.io/badge/whatsapp-30077B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;   
 </p>
