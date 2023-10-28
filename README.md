@@ -1,12 +1,8 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
 
-
-
-
 <p align="center">
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
-
 
 <p align="center">
 <img width='10%' src="https://gallardolautaro.tech/assets/logo-848c3b20.svg"/>
@@ -40,8 +36,6 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 ### Get in touch: 
 
 :floppy_disk: [My Portfolio](https://gallardolautaro.tech)
-
-:page_with_curl: [My resume](https://raw.githubusercontent.com/speedbuild98/speedbuild98/main/Resume%20-%20Gallardo%20Lautaro.pdf)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
