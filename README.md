@@ -1,15 +1,12 @@
-![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%236d36d4)
 
 <p align="center">
 <img width='50%' src="https://github.com/speedbuild98/speedbuild98/blob/main/LEONEL.png"/>
 </p>
 
-<p align="center">
-<img width='10%' src="https://gallardolautaro.tech/assets/logo-848c3b20.svg"/>
-</p>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=f9cc0b&center=true&vCenter=true&width=435&lines=%3CFrontend Developer%2F%3E" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=6d36d4&center=true&vCenter=true&width=435&lines=%3CFrontend Developer%2F%3E" alt="Typing SVG" />
     </a>
 </div>
 
