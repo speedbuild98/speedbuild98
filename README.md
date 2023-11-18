@@ -55,6 +55,7 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 
 ## :bar_chart: GitHub Stats
 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=speedbuild98&background=082032&dates=ffffff&ring=f8cc0a&fire=F7DF1E&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff006c&sideLabels=f8cc0a&hide_border=true)](https://git.io/streak-stats)
 
 ![Lautaro's github stats](https://github-readme-stats.vercel.app/api?username=speedbuild98&show_icons=true&theme=radical)
