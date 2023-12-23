@@ -30,7 +30,7 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 
 # 
 <p align="center">
-<img width='10%' src="https://gallardolautaro.tech/assets/logo-848c3b20.svg"/>
+<img width='10%' src="https://www.gallardolautaro.tech/spartan.svg"/>
 </p>
 <img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
