@@ -51,7 +51,7 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 
 <div align="center">
      
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nextjs,php,laravel,tailwind,mongodb,figma,ps,postman)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,prisma,nodejs,react,nextjs,tailwind,supabase,postgresql,figma)
 
 ## :bar_chart: GitHub Stats
 
