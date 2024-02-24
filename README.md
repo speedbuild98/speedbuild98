@@ -19,9 +19,9 @@ I am Lautaro Leonel Gallardo, a Software Developer with experience in building c
 #  :scroll: Todoist Stats
 <!-- TODO-IST:START -->
 🏆  19,569 Karma Points           
-🌸  Completed 1 tasks today           
-🗓  Completed 63 tasks this week           
-✅  Completed 4,371 tasks so far           
+🌸  Completed 4 tasks today           
+🗓  Completed 66 tasks this week           
+✅  Completed 4,374 tasks so far           
 ⏳  Longest streak is 55 days
 <!-- TODO-IST:END -->
 
