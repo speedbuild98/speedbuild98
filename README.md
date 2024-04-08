@@ -1,7 +1,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%231278ba)
 
 <p align="center">
-<img width='200px' src="https://github.com/speedbuild98/speedbuild98/blob/main/coverpng-removebg-preview.png" alt="Cover"/>
+<img width='400px' src="https://github.com/speedbuild98/speedbuild98/blob/main/chrome-capture-2024-4-8.gif" alt="Cover"/>
 </p>
 
 <div align="center">
@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-I am Lautaro Leonel Gallardo, a Software Developer with experience in building custom websites and apps. I perform thorough testing of front-end functionalities, as well as conduct revisions and updates to ensure the fulfillment of client requirements. I consider myself a creative and self-taught individual with excellent analytical and organizational skills, enabling me to achieve established goals and efficiently solve problems. I possess a strong curiosity to investigate and learn. I am actively seeking a position in IT that can broaden my knowledge, skills, and innovative ideas. I am eager to seek new experiences and continue my professional development journey.
+I'm a passionate frontend developer with the ability to craft anything, from sleek interfaces to dynamic web solutions, using creativity and code.
 </p>
 
 <div align="center">
