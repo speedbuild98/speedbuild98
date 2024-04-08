@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-I'm a passionate frontend developer with the ability to craft anything, <br/> from sleek interfaces to dynamic web solutions, using creativity and code.
+I'm a passionate frontend developer with the ability to craft anything, from sleek interfaces to dynamic web solutions, using creativity and code.
 </h2>
 
 # 
