@@ -4,9 +4,9 @@
 <img width='100%' src="https://github.com/speedbuild98/speedbuild98/blob/main/chrome-capture-2024-4-8.gif" alt="Cover"/>
 </p>
 
-<p align="center">
+<h2 align="center">
 I'm a passionate frontend developer with the ability to craft anything, <br/> from sleek interfaces to dynamic web solutions, using creativity and code.
-</p>
+</h2>
 
 # 
 <p align="center">
