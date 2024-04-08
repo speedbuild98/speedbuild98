@@ -1,7 +1,7 @@
 ![](https://api.visitorbadge.io/api/VisitorHit?user=speedbuild98&repo=speedbuild98&countColor=%231278ba)
 
 <p align="center">
-<img width='70%' src="https://github.com/speedbuild98/speedbuild98/blob/main/coverpng-removebg-preview.png" alt="Cover"/>
+<img width='200px' src="https://github.com/speedbuild98/speedbuild98/blob/main/coverpng-removebg-preview.png" alt="Cover"/>
 </p>
 
 <div align="center">
