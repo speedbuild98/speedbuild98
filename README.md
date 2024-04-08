@@ -4,12 +4,6 @@
 <img width='400px' src="https://github.com/speedbuild98/speedbuild98/blob/main/chrome-capture-2024-4-8.gif" alt="Cover"/>
 </p>
 
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=1278ba&center=true&vCenter=true&width=435&lines=%3CFrontend Developer%2F%3E" alt="Typing SVG" />
-    </a>
-</div>
-
 <p align="center">
 I'm a passionate frontend developer with the ability to craft anything, from sleek interfaces to dynamic web solutions, using creativity and code.
 </p>
@@ -32,20 +26,24 @@ I'm a passionate frontend developer with the ability to craft anything, from sle
 <p align="center">
 <img width='10%' src="https://www.gallardolautaro.tech/spartan.svg"/>
 </p>
-<img align='right' src='https://github.com/speedbuild98/speedbuild98/blob/main/bongo-cat-codes.gif?raw=true' width='20%'>
 
-### Get in touch: 
-
-:floppy_disk: [My Portfolio](https://gallardolautaro.tech)
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=28&duration=4000&pause=1000&color=1278ba&center=true&vCenter=true&width=435&lines=%3CFrontend Developer%2F%3E" alt="Typing SVG" />
+    </a>
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+    <a href="https://gallardolautaro.tech/">
+     <img src="https://img.shields.io/badge/Portfolio-%231278ba.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  </a>
 <a href="https://www.linkedin.com/in/lautagallardogg/">
-     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+     <img src="https://img.shields.io/badge/LinkedIn-%231278ba.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 <a href="mailto:dev.gallardolautaro@gmail.com?subject=Hi there!">
-     <img src="https://img.shields.io/badge/Gmail-FF0000.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;  
+     <img src="https://img.shields.io/badge/Gmail-1278ba.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a> 
 </p>
 <br/>
 
