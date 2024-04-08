@@ -5,22 +5,8 @@
 </p>
 
 <p align="center">
-I'm a passionate frontend developer with the ability to craft anything, from sleek interfaces to dynamic web solutions, using creativity and code.
+I'm a passionate frontend developer with the ability to craft anything, <br/> from sleek interfaces to dynamic web solutions, using creativity and code.
 </p>
-
-<div align="center">
-    
-#  :scroll: Todoist Stats
-<!-- TODO-IST:START -->
-🏆  20,976 Karma Points           
-🌸  Completed 7 tasks today           
-🗓  Completed 7 tasks this week           
-✅  Completed 4,836 tasks so far           
-⏳  Longest streak is 55 days
-<!-- TODO-IST:END -->
-
-</div>
-
 
 # 
 <p align="center">
@@ -50,6 +36,19 @@ I'm a passionate frontend developer with the ability to craft anything, from sle
 <div align="center">
      
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,prisma,nodejs,react,nextjs,tailwind,supabase,postgresql,figma)
+
+<div align="center">
+    
+#  :scroll: Todoist Stats
+<!-- TODO-IST:START -->
+🏆  20,976 Karma Points           
+🌸  Completed 7 tasks today           
+🗓  Completed 7 tasks this week           
+✅  Completed 4,836 tasks so far           
+⏳  Longest streak is 55 days
+<!-- TODO-IST:END -->
+
+</div>
 
 ## :bar_chart: GitHub Stats
 
