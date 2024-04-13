@@ -59,5 +59,9 @@ I'm a passionate frontend developer with the ability to craft anything, from sle
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speedbuild98&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=speedbuild98&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=speedbuild98&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=speedbuild98&theme=algolia)
+
 <img src="https://github-profile-trophy.vercel.app/?username=speedbuild98&theme=juicyfresh&no-bg=true" />
 
