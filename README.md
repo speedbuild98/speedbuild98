@@ -42,9 +42,9 @@ I'm a passionate frontend developer with the ability to craft anything, from sle
 #  :scroll: Todoist Stats
 <!-- TODO-IST:START -->
 🏆  21,991 Karma Points           
-🌸  Completed 2 tasks today           
-🗓  Completed 27 tasks this week           
-✅  Completed 5,177 tasks so far           
+🌸  Completed 5 tasks today           
+🗓  Completed 30 tasks this week           
+✅  Completed 5,180 tasks so far           
 ⏳  Longest streak is 55 days
 <!-- TODO-IST:END -->
 
