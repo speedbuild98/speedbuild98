@@ -16149,7 +16149,7 @@ I'm a passionate frontend developer with the ability to craft anything, from sle
 
 # 
 <p align="center">
-<img width='10%' src="https://www.gallardolautaro.tech/spartan.svg"/>
+<img width='10%' src="https://www.gallardolautaro.com/spartan.svg"/>
 </p>
 
 <div align="center">
