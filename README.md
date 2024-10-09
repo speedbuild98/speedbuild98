@@ -16160,7 +16160,7 @@ I'm a passionate frontend developer with the ability to craft anything, from sle
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://gallardolautaro.tech/">
+    <a href="https://gallardolautaro.com/">
      <img src="https://img.shields.io/badge/Portfolio-%231278ba.svg?&style=for-the-badge&logo=react&logoColor=white" />
   </a>
 <a href="https://www.linkedin.com/in/lautagallardogg/">
