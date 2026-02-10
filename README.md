@@ -144,16 +144,6 @@ const lautaro = {
 
 <br/>
 
-## Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=speedbuild98&theme=algolia&no-bg=true&no-frame=true&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 
 <img src="https://www.gallardolautaro.com/spartan.svg" width="60"/>
